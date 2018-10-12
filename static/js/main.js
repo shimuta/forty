@@ -171,8 +171,8 @@
 								event.preventDefault();
 
 							// Start transitioning.
-								$this.addClass('is-transitioning');
-								$wrapper.addClass('is-transitioning');
+							//	$this.addClass('is-transitioning');
+							//	$wrapper.addClass('is-transitioning');
 
 							// Redirect.
 								window.setTimeout(function() {
